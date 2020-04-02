@@ -16,7 +16,7 @@ $ pip3 install -r requirements.txt
 ```
 
 ### Usage
-Run the `net_scanner.py` as `root` for operation detection
+Run the `net_scanner.py` as `root` for operation system detection
 ```bash
 $ sudo python3 net_scanner.py
 ```
