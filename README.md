@@ -16,11 +16,15 @@ $ pip3 install -r requirements.txt
 ```
 
 ### Usage
-Clone the repo and run the net_scanner.py as root
 ```bash
-$ sudo python3 net_scanner
+$ python3 net_scanner.py
 ```
 - No arguments needed
+
+### TODO
+- [] Dealing wit functions
+- [] Dealing with `multithread` while host scanning
+- [] Dealing with return back from the end of the process
 
 ### Contribution
 - Me
