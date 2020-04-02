@@ -16,8 +16,9 @@ $ pip3 install -r requirements.txt
 ```
 
 ### Usage
+Run the `net_scanner.py` as root for operation detection
 ```bash
-$ python3 net_scanner.py
+$ sudo python3 net_scanner.py
 ```
 - No arguments needed
 
@@ -27,7 +28,7 @@ $ python3 net_scanner.py
 - [] Dealing with return back from the end of the process
 
 ### Contribution
-- Me
+- Myself (?
 
 ### Release
-- 0.1.0 - Initial release
+- 0.1.0 - Initial release (2020-04-02)
