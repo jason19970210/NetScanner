@@ -1,0 +1,6 @@
+python-nmap>=0.6.1
+python3-nmap>=0.1.1
+netifaces>=0.10.9
+prettytable>=0.7.2
+inquirer>=2.6.3
+simplejson>=3.16.0
