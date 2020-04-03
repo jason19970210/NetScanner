@@ -1,7 +1,8 @@
 # NetScanner
 Automatic scan the network hosts and get operation system, MAC address ... etc.
 
-![](https://img.shields.io/badge/python-v3.5%2B-blue.svg)
+
+![](../img/python_version.svg)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20MacOS-blue.svg)
 ![](https://img.shields.io/badge/build-passing-green.svg)
 ![](https://img.shields.io/badge/license-GPL-blue.svg)
