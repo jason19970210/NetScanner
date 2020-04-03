@@ -2,8 +2,8 @@
 Automatic scan the network hosts and get operation system, MAC address ... etc.
 
 
-![](https://raw.githubusercontent.com/jason19970210/NetScanner/master/img/python_version.svg)
-![](https://raw.githubusercontent.com/jason19970210/NetScanner/master/img/platform.svg)
+![](https://img.shields.io/badge/python-v3.5%2B-blue)
+![](https://img.shields.io/badge/platform-Linux%20%7C%20MacOS-blue)
 ![](https://img.shields.io/badge/build-passing-green.svg)
 ![](https://img.shields.io/badge/license-GPL-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg)
