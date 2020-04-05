@@ -31,6 +31,8 @@ $ sudo python3 net_scanner.py
 - [ ] Can `nmap.PortScannerAsync()` / `nmap.PortScannerYield()` work? [[Ref]](https://xael.org/pages/python-nmap-en.html)
 - [ ] Scan over all ports using `host.all_protocols()` [[Ref]](https://blog.51cto.com/11555417/2112069)
 - [ ] Nmap chaetsheet : https://technologyredefine.blogspot.com/2017/09/nmap-cheatsheet.html
+- [ ] `import quene`
+
 
 ### Contribution
 - Myself (?
