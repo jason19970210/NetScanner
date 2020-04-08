@@ -29,6 +29,7 @@ $ sudo python3 net_scanner.py
 - [ ] Dealing with return back from the end of the process
 - [ ] Should double check the host OS using `nmap.scan('<ip_address>', arguments='-O')` when `nmap3.nmap_os_detection` return `Null`
 - [ ] Can `nmap.PortScannerAsync()` / `nmap.PortScannerYield()` work? [[Ref]](https://xael.org/pages/python-nmap-en.html)
+    -  `nmap.PortScannerAsync()` seems not working with Python v3.8.2
 - [ ] Scan over all ports using `host.all_protocols()` [[Ref]](https://blog.51cto.com/11555417/2112069)
 - [ ] Nmap chaetsheet : https://technologyredefine.blogspot.com/2017/09/nmap-cheatsheet.html
 - [ ] `import quene`

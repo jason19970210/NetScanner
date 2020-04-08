@@ -113,6 +113,7 @@ for host in hostlist:
     tb_host.add_row([ipv4, mac, os_name, os_accu, os_family, reason])
 
 print(tb_host)
+
 def select_target(ip_list):
     questions = [
         inquirer.List('ip_target',
