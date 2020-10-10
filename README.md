@@ -36,7 +36,8 @@ $ sudo python3 net_scanner.py
 
 
 ### Contribution
-- Myself (?
+- [Me](https://github.com/jason19970210)
+- [HuanyueTW](https://github.com/HuanyueTW)
 
 ### Release
 - 0.1.0 - Initial release (2020-04-02)
