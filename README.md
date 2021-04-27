@@ -24,7 +24,7 @@ $ sudo python3 net_scanner.py
 - No arguments needed
 
 ### TODO
-- [x] Dealing with functions
+- [ ] Dealing with functions
 - [ ] Dealing with `multithread` while host scanning [[Ref1]](https://www.neuralnine.com/threaded-port-scanner-in-python/)
 - [ ] Dealing with return back from the end of the process
 - [ ] Should double check the host OS using `nmap.scan('<ip_address>', arguments='-O')` when `nmap3.nmap_os_detection` return `Null`
